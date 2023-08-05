@@ -29,6 +29,6 @@
 ## Repositórios importantes:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=GameMataMosquito.github.io&theme=merko)](https://github.com/pbarret97/GameMataMosquito)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=finans.github.io&theme=merko)](https://github.com/pbarret97/GameMataMosquito)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=finans.github.io&theme=merko)](https://github.com/pbarret97/finans.github.io)
 
 Sou apaixonado por tecnologia e comecei a estudar desenvolvimento web em 06/22. Atualmente, busco minha primeira experiência enquanto estudo e desenvolvo minhas habilidades cada vez mais.
