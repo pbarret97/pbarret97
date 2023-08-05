@@ -23,7 +23,7 @@
 </div>
 
 
-##Repositórios importantes:
+## Repositórios importantes:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=GameMataMosquito&theme=merko)](https://github.com/pbarret97/GameMataMosquito)
 
