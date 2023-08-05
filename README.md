@@ -22,7 +22,8 @@
     <img align =" center" alt = "Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
-#Repositórios importantes:
+
+##Repositórios importantes:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=GameMataMosquito&theme=merko)](https://github.com/pbarret97/GameMataMosquito)
 
