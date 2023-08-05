@@ -22,6 +22,9 @@
     <img align =" center" alt = "Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
+## Linguagens mais usadas: 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pbarret97&layout=compact&theme=merko)
 
 ## Repositórios importantes:
 
