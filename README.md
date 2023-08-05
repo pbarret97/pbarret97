@@ -22,5 +22,8 @@
     <img align =" center" alt = "Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
+#Repositórios importantes:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=GameMataMosquito&theme=merko)](https://github.com/pbarret97/GameMataMosquito)
 
 Sou apaixonado por tecnologia e comecei a estudar desenvolvimento web em 06/22. Atualmente, busco minha primeira experiência enquanto estudo e desenvolvo minhas habilidades cada vez mais.
