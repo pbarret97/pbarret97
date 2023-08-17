@@ -1,7 +1,8 @@
 ### Olá, eu sou Patrick Barreto, desenvolvedor web FullStack ✋
 
+## Entre em contato comigo!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/patrick_vbarreto)
-[![Linkedin](https://img.shields.io/badge/LinkedInwww.linkedin.com/in/patrick-barreto-63b47924b?style=for-the-badge&logo=linkedin&logoColor=white)]()
+<a href="https://www.linkedin.com/in/patrick-barreto-63b47924b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ![Patrick Barreto's GitHub stats](https://github-readme-stats.vercel.app/api?username=pbarret97&show_icons=true&theme=merko)
 
@@ -32,4 +33,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=finans.github.io&theme=merko)](https://github.com/pbarret97/finans.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=calculadora&theme=merko)](https://github.com/pbarret97/calculadora)
 
-Sou apaixonado por tecnologia e comecei a estudar desenvolvimento web em 06/22. Atualmente, busco minha primeira experiência enquanto estudo e desenvolvo minhas habilidades cada vez mais.
+## Minhas Contribuições
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/pbarret97/dio-lab-open-source)
+
