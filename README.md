@@ -32,6 +32,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=GameMataMosquito.github.io&theme=merko)](https://github.com/pbarret97/GameMataMosquito.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=finans.github.io&theme=merko)](https://github.com/pbarret97/finans.github.io)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=calculadora&theme=merko)](https://github.com/pbarret97/calculadora)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=angular-blog&theme=merko)](https://github.com/pbarret97/angular-blog)
 
 ## Minhas Contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=pbarret97&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](thhps://github.com/pbarret97/dio-lab-open-source)
